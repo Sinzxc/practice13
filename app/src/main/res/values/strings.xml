@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finance</string>
+    <string name="kurs">Введите курс обмена $</string>
+    <string name="summa">Введите сумму</string>
+    <string name="result">Результат: </string>
+    <string name="summ_dol">сумма в долларах</string>
+    <string name="dol_rub">1 $ = 1 ₽</string>
+    <string name="change">Конвертировать</string>
+</resources>
